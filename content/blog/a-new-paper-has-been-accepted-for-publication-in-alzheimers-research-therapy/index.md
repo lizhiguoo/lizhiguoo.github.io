@@ -1,6 +1,5 @@
 ---
-title: A new paper has been accepted for publication in Alzheimer's Research &
-  Therapy!
+title: New Publication Accepted in Alzheimer's Research & Therapy
 date: 2026-11-13T18:30:00.000+08:00
 draft: false
 featured: false
