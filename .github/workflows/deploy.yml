@@ -42,7 +42,7 @@ jobs:
 
       - name: Build
         # ★★★ 关键步骤：这里用 --baseURL 强制覆盖配置文件中的设置 ★★★
-        run: hugo --minify --baseURL "https://lycheeguo.github.io/"
+        run: hugo --minify --baseURL "https://lizhiguoo.github.io/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
